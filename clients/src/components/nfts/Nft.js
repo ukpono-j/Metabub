@@ -40,7 +40,7 @@ const Nft = () => {
                 </div>
                 </div>
                 {/* ======== Nfts Section ========= */}
-                <div className=' h-auto  w-full  max-w-[1410px] nft-1 m-auto pl-3 pr-3 md:pl-[24px] md:pr-[24px]  lg:pr-[60px] lg:pl-[60px] pb-20'>
+                <div className=' h-auto  w-full  max-w-[1410px]  m-auto pl-3 pr-3 md:pl-[24px] md:pr-[24px]  lg:pr-[60px] lg:pl-[60px] pb-20'>
                     {/* ==================== Start Inspire Container =============== */}
                     {/* ==================== Start Inspire Container =============== */}
                     <div className='h-full inspire-b md:flex  grid md:flex-wrap md:justify-center w-full'>
