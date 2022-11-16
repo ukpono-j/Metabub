@@ -24,15 +24,15 @@ const Nft = () => {
             <Navbar />
             <div className=' h-full w-full  nft-1'>
                 <div className='max-w-[1410px] m-auto'>
-                <div className=' justify-center  overflow-x-scroll lg:overflow-x-hidden items-center  flex  pt-3 pb-3   h-auto  max-w-[2000px] pl-4 pr-4 lg:pl-0 pr-0 md:pl-20  mt-6 mb-6'>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Resturant</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Cottage</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Castle</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Fantast city</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>beach</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Cabins</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Off-grid</li>
-                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] md:w-[auto]'>Farm</li>
+                <div className=' justify-center  overflow-x-scroll lg:overflow-x-hidden items-center  flex  pt-3 pb-3   h-auto  max-w-[auto] pl-4 pr-4 lg:pl-0 pr-0 md:pl-20  mt-6 mb-6'>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Resturant</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Cottage</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Castle</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Fantast city</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>beach</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Cabins</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Off-grid</li>
+                    <li className='list-none md:ml-2 mr-2 cursor-pointer min-w-[100px] sm:w-[auto]'>Farm</li>
                     <div className='border w-40 pl-3 pr-3 rounded-lg  flex items-center justify-between h-10 md:ml-5 md:mt-0 mt-2 mr-3 min-w-[140px]'>
                         <div>Location</div>
                         <img src={Setting} alt='' />
