@@ -1,0 +1,11 @@
+@media  (max-width: 824px){
+    .inspire-bx{
+        width: 340px;
+    }
+}
+@media (max-width: 764px){
+    .inspire-bx{
+        width: 100%;
+        /* background-color: rgb(233, 10, 10); */
+    }
+}
